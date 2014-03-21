@@ -1,0 +1,1 @@
+Add screenshots for clients, yourself, or other team members.

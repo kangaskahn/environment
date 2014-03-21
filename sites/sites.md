@@ -1,0 +1,1 @@
+Holds your sites for ftp transfering. Each site gets their own folder.

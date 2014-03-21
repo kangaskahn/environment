@@ -1,0 +1,1 @@
+Easily add mock up designs or prototypes in this folder
