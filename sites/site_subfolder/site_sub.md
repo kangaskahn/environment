@@ -1,0 +1,1 @@
+Each site gets their own subfolder. In case you need to have multiple versions or whatnot.
